@@ -4,6 +4,18 @@
 
 The Voter Management System is a comprehensive web-based application designed to streamline the process of managing voter information. It provides functionalities for admin and voter management, including registration, authentication, and profile management. This system is built using modern technologies and follows best practices for security and scalability.
 
+## Screenshots
+
+Here are some screenshots of the Voter Management System:
+
+<img src="images/p1.png" alt="Screenshot 1" style="width: 600px; height: auto;">
+<img src="images/p8.png" alt="Screenshot 8" style="width: 600px; height: auto;">
+<img src="images/p3.png" alt="Screenshot 3" style="width: 600px; height: auto;">
+<img src="images/p4.png" alt="Screenshot 4" style="width: 600px; height: auto;">
+<img src="images/p5.png" alt="Screenshot 5" style="width: 600px; height: auto;">
+<img src="images/p6.png" alt="Screenshot 6" style="width: 600px; height: auto;">
+<img src="images/p7.png" alt="Screenshot 7" style="width: 600px; height: auto;">
+
 ## Project Objectives
 
 - **Admin Management**:
@@ -33,25 +45,16 @@ The Voter Management System is a comprehensive web-based application designed to
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS, Bootstrap, JS
 - **Backend**: Java, Spring Boot
-- **Database**: PostgreSQL
+- **Database**: MySQL
 - **Authentication**: Spring Security
 - **Version Control**: Git & GitHub
 - **Deployment**: Docker, Heroku
 
-## Screenshots
 
-Here are some screenshots of the Voter Management System:
 
-![Screenshot 1](images/p1.png)
-![Screenshot 2](images/p2.png)
-![Screenshot 3](images/p3.png)
-![Screenshot 4](images/p4.png)
-![Screenshot 5](images/p5.png)
-![Screenshot 6](images/p6.png)
-![Screenshot 7](images/p7.png)
-![Screenshot 8](images/p8.png)
+
 
 ## Setup and Installation
 
@@ -59,7 +62,7 @@ Here are some screenshots of the Voter Management System:
 
 - Java 11 or higher
 - Maven
-- PostgreSQL
+- MySQL
 - Docker (optional, for containerization)
 
 ### Setup Instructions
